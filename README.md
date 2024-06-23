@@ -16,6 +16,6 @@ If you have any additional questions, concerns, or would like to view more of my
 
 GitHub ~ [https://github.com/awigginsjr](https://github.com/awigginsjr)
 
-Repository ~ []()
+Repository ~ [https://github.com/awigginsjr/19-Text-Editor](https://github.com/awigginsjr/19-Text-Editor)
 
 Render ~ []()
